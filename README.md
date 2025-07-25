@@ -4,7 +4,7 @@ Un proyecto moderno de tarjeta de producto desarrollado con **Web Components** v
 
 ## 🌐 Demo en Vivo
 
-**[Ver Demo](https://32proyecto-curso-de-java-script-web.vercel.app/)**
+**[Ver Demo](https://32proyectocursodejavascriptwebcompone.netlify.app/)**
 
 ## 📋 Descripción
 
@@ -128,11 +128,11 @@ El proyecto utiliza las siguientes APIs nativas:
 
 ## 🌐 Despliegue
 
-El proyecto está configurado para desplegarse automáticamente en Vercel:
+El proyecto está configurado para desplegarse automáticamente en Netlify:
 
 1. **Push a main branch** activa el despliegue automático
 2. **Vercel.json** contiene la configuración optimizada
-3. **URL de producción**: https://32proyecto-curso-de-java-script-web.vercel.app/
+3. **URL de producción**: https://32proyectocursodejavascriptwebcompone.netlify.app/
 
 ### Configuración de Vercel
 
